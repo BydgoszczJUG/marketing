@@ -1,5 +1,9 @@
-Hall of fame
+# Marketing
+Repo gdzie przechowujemy materiały marketingowe takie jak grafiki, plakaty itp.
 
-Kamil Jabłoński - autor logo JUG - https://www.linkedin.com/in/kamil-jablonski-0b1a3aab
+# Hall Of Fame
 
-Michał Budziński - pomoc przy projekcie logo - https://www.linkedin.com/in/budzinski
+| Fame to       | Linki           | Wsparcie  |
+| ------------- |:-------------:| -----:|
+| Kamil Jabłoński | [[LinkedIn]](https://www.linkedin.com/in/kamil-jablonski-0b1a3aab) | autor logo JUG |
+| Michał Budziński |  [[LinkedIn]](https://www.linkedin.com/in/budzinski) | pomoc przy projekcie logo |
